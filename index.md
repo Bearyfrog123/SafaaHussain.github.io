@@ -233,7 +233,7 @@ It should contain:
       
        <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/206954139/?autostart=false" frameborder="0" allowfullscreen></iframe>
        
-      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/201300017/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/201300017/?autostart=false" frameborder="0" 
 
       
 <h1> What causes natural disasters? </h1>

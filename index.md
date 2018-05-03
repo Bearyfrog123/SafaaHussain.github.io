@@ -52,9 +52,10 @@ Living in California, it is essential to prepare for future earthquakes. "An ear
 With these tips, you can be better prepared for when an earthquake strikes.
 
 Sources:
+
 https://www.wikihow.com/Prepare-for-an-Earthquake
 
- </p>
+</p>
 
 </body>
 </html>
@@ -102,11 +103,10 @@ https://www.wikihow.com/Prepare-for-an-Earthquake
 <p>******************************</p>
 Special thanks to: http://prevention1st.org/7-simple-steps-for-fire-safety/
 
-
 </body>
 </html>
 
-<!.DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -151,6 +151,7 @@ What to do: <br>
 </body>
 </html>
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -167,59 +168,58 @@ alt="https://upload.wikimedia.org/wikipedia/commons/8/8b/Hurricane_Fran_sept_199
 1. Create a hurricane kit. 
 It should contain:
     
-     *water (one gallon per person, a week's supply)
+-water (one gallon per person, a week's supply)
      
-     *non-perishable foods that don't need to be cooked such as:
+-non-perishable foods that don't need to be cooked such as:
       canned fruits, soups, ready-to-eat canned meats, peanut butter, bread, cereal, oatmeal, crackers, pet food (IF YOU 
       HAVE A PET: DON'T EAT THIS!!!), lots of Halloween candy, etc.
 
-     *cooler for storing food in 
+-cooler for storing food in 
 
-     *cell phone or portable, windup radio
+-cell phone or portable, windup radio
 
-     *important documents (wills, insurance records, medical records)
+-important documents (wills, insurance records, medical records)
 
-     *extra clothing (preferably waterproof)
+-extra clothing (preferably waterproof)
 
-     *cash, LOTS of it! (at least $200)
+-cash, LOTS of it! (at least $200)
 
-     *personal hygiene products (toilet paper, shampoo, toothpaste, bath sponge, soap, etc.)
+-personal hygiene products (toilet paper, shampoo, toothpaste, bath sponge, soap, etc.)
 
-     *blankets and sleeping bags
+-blankets and sleeping bags
 
-     *first aid kit
+-first aid kit
 	    (tweezers, pocket/utility knife, bandages, gauze, disinfectant wipes, etc.)
-       	
-     *cooking utensils 
+       
+-cooking utensils 
 
-     *matches or firelighter (make sure these are waterproof or in a watertight bag!)
+-matches or firelighter (make sure these are waterproof or in a watertight bag!)
 
-     *disposable utensils
+-disposable utensils
 
-     *flashlight with extra batteries
+-flashlight with extra batteries
 
-     *rolls of heavy plastic or heavy duty plastic bags
+-rolls of heavy plastic or heavy duty plastic bags
      
-     *life vests, whistles, and flares (Be careful not to light your hair on fire! or your clothes...)
+-life vests, whistles, and flares (Be careful not to light your hair on fire! or your clothes...)
 
-     *hand-operated can opener
+-hand-operated can opener
 
-     *shovels 
+-shovels 
 
-     *heavy rope
+-heavy rope
 
-     *prescription medicine (inhalers, allergy medicine, Tylenol, etc.) 
+-prescription medicine (inhalers, allergy medicine, Tylenol, etc.) 
 
-     *insect repellant (For those nasty misquotes!) 
+-insect repellant (For those nasty misquotes!) 
 
-     *board games, funny cat pictures, or other activities to keep yourself from dying from boredom (if you bring 
+-board games, funny cat pictures, or other activities to keep yourself from dying from boredom (if you bring 
       Monopoly, make sure to bring extra money so you can help yourself... wink wink)
 
 2. Evacuate as soon as the local officials tell you! Don't wait until the last minute!
-<img src="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/"
-alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300" height="400">
+
 3. Protect your home! 
-	Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.
+Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.
 
 
 </p>
@@ -272,15 +272,3 @@ REMEMBER: YOU CAN NEVER BE TOO PREPARED!!! <br>
 Special thanks to: http://www.earthtimes.org/encyclopaedia/environmental-issues/natural-disasters/ </p>
 
 </font>
-
-
-
-
-    
-    
-
-
-
-
-
-

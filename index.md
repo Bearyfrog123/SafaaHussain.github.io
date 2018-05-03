@@ -38,21 +38,21 @@ Learn about and experience all natural disasters through games and more!</hl>
 
 <p>Living in California, it is essential to prepare for future earthquakes. "An earthquake is the shaking of the surface of the Earth, resulting from the sudden release of energy in the Earth's lithosphere that creates seismic waves. Earthquakes can range in size from those that are so weak that they cannot be felt to those violent enough to toss people around and destroy whole cities.(Wikipedia)". You can prepare by first making a plan for your household. Identify places to take cover, and teach people signals for help. Practice "drop, cover, and hold on". Identify out-of-building areas, turn off home utilities, write down emergency contacts. Also, make an emergency earthquake kit containing the following: </p>
 
-1. 3 days worth of non-perishable, salted, or canned food 
+<p>1. 3 days worth of non-perishable, salted, or canned food</p>
 
-2. Flashlights and a radio, with extra batteries 
+<p>2. Flashlights and a radio, with extra batteries</p>
 
-3. A first aid kit 
+<p>3. A first aid kit</p>
 
-4. A basic tool kit 
+<p>4. A basic tool kit</p>
 
-5. Water (one gallon per person for at least 3 days)
+<p>5. Water (one gallon per person for at least 3 days)</p>
 
-With these tips, you can be better prepared for when an earthquake strikes.
+<p>With these tips, you can be better prepared for when an earthquake strikes.</p>
 
-Sources:
+<p>Sources:</p>
 
-https://www.wikihow.com/Prepare-for-an-Earthquake 
+<p>https://www.wikihow.com/Prepare-for-an-Earthquake</p> 
 
 </body>
 </html>
@@ -165,61 +165,58 @@ alt="https://upload.wikimedia.org/wikipedia/commons/8/8b/Hurricane_Fran_sept_199
 1. Create a hurricane kit. 
 It should contain:
     
--water (one gallon per person, a week's supply)
-     
--non-perishable foods that don't need to be cooked such as:
+<p>-water (one gallon per person, a week's supply)</p>
+     
+<p>-non-perishable foods that don't need to be cooked such as:</p>
       canned fruits, soups, ready-to-eat canned meats, peanut butter, bread, cereal, oatmeal, crackers, pet food (IF YOU 
-      HAVE A PET: DON'T EAT THIS!!!), lots of Halloween candy, etc.
+      <p>HAVE A PET: DON'T EAT THIS!!!), lots of Halloween candy, etc.</p>
 
--cooler for storing food in 
+<p>-a cooler for storing food in</p>
 
--cell phone or portable, windup radio
+<p>-cell phone or portable, windup radio</p>
 
--important documents (wills, insurance records, medical records)
+<p>-important documents (wills, insurance records, medical records)</p>
 
--extra clothing (preferably waterproof)
+<p>-extra clothing (preferably waterproof)</p>
 
--cash, LOTS of it! (at least $200)
+<p>-cash, LOTS of it! (at least $200)</p>
 
--personal hygiene products (toilet paper, shampoo, toothpaste, bath sponge, soap, etc.)
+<p>-personal hygiene products (toilet paper, shampoo, toothpaste, bath sponge, soap, etc.)</p>
 
--blankets and sleeping bags
+<p>-blankets and sleeping bags</p>
 
--first aid kit
-	    (tweezers, pocket/utility knife, bandages, gauze, disinfectant wipes, etc.)
-       
--cooking utensils 
+<p>-first aid kit</p>
+	    <p>(tweezers, pocket/utility knife, bandages, gauze, disinfectant wipes, etc.)</p>
+       
+<p>-cooking utensils</p>
 
--matches or firelighter (make sure these are waterproof or in a watertight bag!)
+<p>-matches or firelighter (make sure these are waterproof or in a watertight bag!)</p>
 
--disposable utensils
+<p>-disposable utensils</p>
 
--flashlight with extra batteries
+<p>-flashlight with extra batteries</p>
 
--rolls of heavy plastic or heavy duty plastic bags
-     
--life vests, whistles, and flares (Be careful not to light your hair on fire! or your clothes...)
+<p>-rolls of heavy plastic or heavy duty plastic bags</p>
+     
+<p>-life vests, whistles, and flares (Be careful not to light your hair on fire! or your clothes...)</p>
 
--hand-operated can opener
+<p>-hand-operated can opener</p>
 
--shovels 
+<p>-shovels</p>
 
--heavy rope
+<p>-heavy rope</p>
 
--prescription medicine (inhalers, allergy medicine, Tylenol, etc.) 
+<p>-prescription medicine (inhalers, allergy medicine, Tylenol, etc.)</p> 
 
--insect repellant (For those nasty misquotes!) 
+<p>-insect repellant (For those nasty misquotes!)</p>
 
--board games, funny cat pictures, or other activities to keep yourself from dying from boredom (if you bring 
-      Monopoly, make sure to bring extra money so you can help yourself... wink wink)
+<p>-board games, funny cat pictures, or other activities to keep yourself from dying from boredom (if you bring 
+      Monopoly, make sure to bring extra money so you can help yourself... wink wink)</p>
 
-2. Evacuate as soon as the local officials tell you! Don't wait until the last minute!
+<p>2. Evacuate as soon as the local officials tell you! Don't wait until the last minute!</p>
 
-3. Protect your home! 
-Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.
-
-
-</p>
+<p>3. Protect your home!</p>
+<p>Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.</p>
 
 <h1> Natural Disaster Games </h1>
 

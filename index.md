@@ -34,7 +34,7 @@ Learn about and experience all natural disasters through games and more!</hl>
 <body>
 <body style ="background-color: blue;">
 	
-<h2 id="C4">Chapter 4</h2>
+<h2 id="Earthquakes">Earthquakes</h2>
 <h1>Preparing for Earthquakes</h1>
 
 <img src="https://www.fractracker.org/a5ej20sjfwe/wp-content/uploads/2015/05/Earthquake-Feature-2.jpg" alt="earthquake" width="600" height="250">

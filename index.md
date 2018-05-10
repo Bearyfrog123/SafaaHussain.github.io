@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<p><a href="Earthquakes">Jump to Earthquakes</a></p>
+<p><a href="#Earthquakes">Jump to Earthquakes</a></p>
 	
 </head>
 <body>
